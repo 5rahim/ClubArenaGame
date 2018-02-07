@@ -1,0 +1,53 @@
+$nHeight: 55px;
+
+.navigation-bar {
+	//width: 100%;
+	height: $nHeight;
+	background-color: #25211c;
+	border-bottom: 3px #34312b solid;
+	box-shadow: inset 0px -5px 0px 0px rgba($black,.1);
+	position: relative;
+	.navigation-bar-logo {
+		width: 116px;
+		height: 76px;
+		float: left;
+		position: relative;
+		top: -.5em;
+		left: .5em;
+		cursor: pointer;
+		transition: all .15s linear;
+		background-image: url(../../../images/navigation_bar_logo.png);
+		&:hover {
+			top: -.7em;
+		}
+	}
+	.navigation-bar-icons {
+		padding: 0 1em;
+		margin-left: 125px;
+		height: $nHeight;
+		li {
+			position: relative;
+			float: left;
+			height: $nHeight;
+			padding: 0 .5em;
+			cursor: pointer;
+			transition: all .15s linear;
+			&:hover {
+				background-color: rgba($black,.2);
+				.navigation-bar-icon {
+					top: -.3em;
+				}
+			}
+			.navigation-bar-icon {
+				width: $nHeight;
+				position: relative;
+				&:nth-child(1) {
+					width: 55px;
+					height: 55px;
+					background-image: url(../../../images/ui/map_icon.png);
+					transition: all .15s linear;
+				}
+			}
+		}
+	}
+}

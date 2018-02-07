@@ -1,0 +1,81 @@
+<% if(loginErrors.length > 0) {
+    var lErrors = loginErrors;
+} %>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/styles/css/kommunity.css">
+    <title>Life in Life</title>
+</head>
+<body>
+
+    <div class="global">
+        <% if(isAuth) { %>
+
+
+        <% } else { %>
+
+        <div class="welcome">
+
+            <div class="landing-auth">
+
+                <div class="landing-auth-container">
+                    <div class="landing-auth-box">
+                        <div class="landing-auth-menu">
+                            <div class="landing-auth-option selected" id="chooseSignup">Connexion</div>
+                            <div class="landing-auth-option" id="chooseLogin">Inscription</div>
+                        </div>
+                        <div class="landing-auth-content" id="signup">
+
+                        </div>
+                        <div class="landing-auth-content" id="login">
+                            <div>
+                                <% if(lErrors) { %>
+                                <div class="landing-auth-catch">
+                                    <div>
+                                        <% for(var i = 0; i < lErrors.length; i++) { %>
+                                        <li><%= lErrors[i].msg %></li>
+                                        <% } %>
+                                    </div>
+                                </div>
+                                <% } %>
+                            </div>
+                            <div>
+                                <form action="login" method="post">
+                                    <input type="hidden" name="_csrf" value="<%= csrfToken %>">
+                                    <input type="text" placeholder="Nom d'utilisateur" name="username" class="field" value="<%= req.body.username %>">
+                                    <input type="password" placeholder="Mot de passe" name="password" class="field" value="<%= req.body.password %>">
+                                    <button class="button button-base">Se conencter</button>
+                                </form>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <% } %>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/logic/jquery.min.js"></script>
+    <script>
+        var io;
+        const url = 'http://127.0.0.1:4004';
+        const socket = io.connect(url);
+        const token = '<%= token %>';
+    </script>
+    <% if(isAuth) { %>
+
+
+
+    <% } %>
+
+</body>
+</html>

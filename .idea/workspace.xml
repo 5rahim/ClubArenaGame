@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c4a5fc0-9a68-4787-8348-ccfd48e22c2d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/arms/arm_first_side_1_white_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/arms/arm_first_side_1_white_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/arms/arm_second_side_1_white_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/arms/arm_second_side_1_white_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/body/body_1_white_back_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/body/body_1_white_back_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/body/body_1_white_front_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/body/body_1_white_front_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/char.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/clothes/cloth_1_back_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/clothes/cloth_1_back_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/clothes/cloth_1_front_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/clothes/cloth_1_front_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/eyes/eyes_1_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/eyes/eyes_1_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/feet/foot_1_white_back_left_side.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/feet/foot_1_white_back_right_side.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/feet/foot_1_white_front_left_side.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/feet/foot_1_white_front_right_side.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/hair/hair_1_back_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/hair/hair_1_back_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/hair/hair_1_front_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/hair/hair_1_front_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/hair/hair_2_back_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/hair/hair_2_back_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/hair/hair_2_front_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/hair/hair_2_front_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/head/1_nose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/head/head_1_white_back_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/head/head_1_white_back_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/head/head_1_white_front_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/head/head_1_white_front_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/avatar-imaging/shadow/1_shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/loading_screen_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/navigation_bar_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/rooms/park_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/rooms/park_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/ui/icons.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/ui/map_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/welcome_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/1f67f2f328386df69d62bd45e66673bc103dfa09/client.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/1f67f2f328386df69d62bd45e66673bc103dfa09/kommunity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/301101567263a37abd69d7c41a4666c872d067a4/_global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/301101567263a37abd69d7c41a4666c872d067a4/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/301101567263a37abd69d7c41a4666c872d067a4/_site.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/301101567263a37abd69d7c41a4666c872d067a4/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/5d923f18726f8d2aa2e300950319a326ac096959/_global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/5d923f18726f8d2aa2e300950319a326ac096959/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/5d923f18726f8d2aa2e300950319a326ac096959/_navigationbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/5d923f18726f8d2aa2e300950319a326ac096959/_navigator.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/5d923f18726f8d2aa2e300950319a326ac096959/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/720a4d28f87d4d35ea1b6223bba343da9255b979/_global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/720a4d28f87d4d35ea1b6223bba343da9255b979/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/720a4d28f87d4d35ea1b6223bba343da9255b979/_site.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/720a4d28f87d4d35ea1b6223bba343da9255b979/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/8d744d7305ba00cc4d3fc995bd1080848c3738c0/_global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/8d744d7305ba00cc4d3fc995bd1080848c3738c0/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/8d744d7305ba00cc4d3fc995bd1080848c3738c0/_site.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/8d744d7305ba00cc4d3fc995bd1080848c3738c0/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/a059d04ab0481d9265fe5cc0539f0010f8ff3d37/ds_style.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/a059d04ab0481d9265fe5cc0539f0010f8ff3d37/kommunity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/bd4d90797b001840322cb9ecb679f99023729df3/kommunity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/c40f844ea2ba4ab2c236be5a8ac4c601fd3c2e26/_global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/c40f844ea2ba4ab2c236be5a8ac4c601fd3c2e26/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/c40f844ea2ba4ab2c236be5a8ac4c601fd3c2e26/_site.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/c40f844ea2ba4ab2c236be5a8ac4c601fd3c2e26/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/.sass-cache/e33236bc67311151bf11b68e2faebe689a2d80df/kommunity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-BlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-Hairline.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-HairlineItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/Lato-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-ExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-ExtraBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-SemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/OpenSans-SemiBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/LifeInLife.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/7c293e2d-43b9-4295-ad9b-318839a2c2dc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Locals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Locals.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Server.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controllers/GameController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controllers/GameController.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controllers/ImagerController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Controllers/ImagerController.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/AvatarModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/AvatarModel.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/RoomModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/RoomModel.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/UserModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Models/UserModel.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Routes.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/UI/Navigationbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/UI/Navigationbar.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/UI/Navigator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/UI/Navigator.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/data/assets_path.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/Assets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/Assets.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/CST.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/CST.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/GameController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/GameController.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/LandingViewController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/LandingViewController.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/LoadingController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/LoadingController.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/Main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/PlayerController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/PlayerController.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/PlayerMove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/PlayerMove.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/RequestAnimFrame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/RoomController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/RoomController.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logic/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/socket.io/socket.io.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/css/client.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/css/client.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/css/kommunity.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/css/kommunity.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/client.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/client/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/client/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/client/_navigationbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/client/_navigator.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/client/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/components/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/components/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/components/_site.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/components/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/styles/scss/kommunity.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Camera.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Config.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/DataAccess.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/DataAccess.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Debug.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Door.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Door.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Game.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Game.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/LandingView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/LandingView.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Loading.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Model.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Player.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Players.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Players.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Room.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Room.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Socketio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/Socketio.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/UI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/UI.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/User.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/User.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/View.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/View.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/game/client.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/game/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/imager/index.ejs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="lifeinlife@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="lifeinlife@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="lifeinlife" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="lifeinlife@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="lifeinlife" type="e3449647:DbNodeDescriptor" />
+        <item name="rooms" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="lifeinlife@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="lifeinlife" type="e3449647:DbNodeDescriptor" />
+        <item name="user_avatar" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="lifeinlife@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="lifeinlife" type="e3449647:DbNodeDescriptor" />
+        <item name="users" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Room.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Room.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2665">
+              <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rooms" pinned="false" current-in-tab="false">
+        <entry file="das://table:/f7fbd5d6/7c293e2d-43b9-4295-ad9b-318839a2c2dc/lifeinlife.rooms">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameController.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/logic/GameController.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="73" column="47" lean-forward="false" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Player.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoomController.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/logic/RoomController.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="56" column="24" lean-forward="false" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerController.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/logic/PlayerController.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-242">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assets_path.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/data/assets_path.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="605">
+              <caret line="162" column="17" lean-forward="false" selection-start-line="162" selection-start-column="17" selection-end-line="162" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Game.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1065">
+              <caret line="69" column="54" lean-forward="false" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assets.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/logic/Assets.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setLandi</find>
+      <find>leaving</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/core/Config.ts" />
+        <option value="$PROJECT_DIR$/Server.ts" />
+        <option value="$PROJECT_DIR$/views/imager/index.ejs" />
+        <option value="$PROJECT_DIR$/app/Controllers/ImagerController.ts" />
+        <option value="$PROJECT_DIR$/app/Routes.ts" />
+        <option value="$PROJECT_DIR$/core/CST.ts" />
+        <option value="$PROJECT_DIR$/Locals.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/Player.ts" />
+        <option value="$PROJECT_DIR$/app/Socketio.ts" />
+        <option value="$PROJECT_DIR$/core/Socketio.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/Game.ts" />
+        <option value="$PROJECT_DIR$/core/GameController.ts" />
+        <option value="$PROJECT_DIR$/assets/styles/scss/components/_site.scss" />
+        <option value="$PROJECT_DIR$/core/Players.ts" />
+        <option value="$PROJECT_DIR$/core/Loading.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/CST.ts" />
+        <option value="$PROJECT_DIR$/core/LandingView.ts" />
+        <option value="$PROJECT_DIR$/app/Models/RoomModel.ts" />
+        <option value="$PROJECT_DIR$/app/Models/AvatarModel.ts" />
+        <option value="$PROJECT_DIR$/core/Model.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/LoadingController.ts" />
+        <option value="$PROJECT_DIR$/views/game/index.ejs" />
+        <option value="$PROJECT_DIR$/app/Controllers/GameController.ts" />
+        <option value="$PROJECT_DIR$/core/Door.ts" />
+        <option value="$PROJECT_DIR$/assets/styles/scss/kommunity.scss" />
+        <option value="$PROJECT_DIR$/core/Debug.ts" />
+        <option value="$PROJECT_DIR$/assets/styles/scss/client/_global.scss" />
+        <option value="$PROJECT_DIR$/assets/styles/scss/client/_navigationbar.scss" />
+        <option value="$PROJECT_DIR$/assets/data/avatar_imaging.json" />
+        <option value="$PROJECT_DIR$/assets/logic/Main.ts" />
+        <option value="$PROJECT_DIR$/core/UI.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/LandingViewController.ts" />
+        <option value="$PROJECT_DIR$/assets/styles/scss/client.scss" />
+        <option value="$PROJECT_DIR$/core/Player.ts" />
+        <option value="$PROJECT_DIR$/assets/styles/scss/client/_navigator.scss" />
+        <option value="$PROJECT_DIR$/index.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/requestAnimFrame.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/RequestAnimFrame.js" />
+        <option value="$PROJECT_DIR$/core/Camera.ts" />
+        <option value="$PROJECT_DIR$/views/game/client.ejs" />
+        <option value="$PROJECT_DIR$/assets/UI/Navigationbar.ts" />
+        <option value="$PROJECT_DIR$/assets/UI/Navigator.ts" />
+        <option value="$PROJECT_DIR$/core/Game.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/GameController.ts" />
+        <option value="$PROJECT_DIR$/core/Room.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/PlayerController.ts" />
+        <option value="$PROJECT_DIR$/assets/data/assets_path.json" />
+        <option value="$PROJECT_DIR$/assets/logic/Assets.ts" />
+        <option value="$PROJECT_DIR$/assets/logic/RoomController.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LifeInLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LifeInLife" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LifeInLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LifeInLife" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LifeInLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LifeInLife" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LifeInLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LifeInLife" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LifeInLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LifeInLife" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LifeInLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LifeInLife" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/habbo5" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.splitter.proportion" value="0.25490198" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Afrozack\IdeaProjects\LifeInLife\assets\styles\scss\client" />
+      <recent name="C:\Users\Afrozack\IdeaProjects\LifeInLife\app\Models" />
+      <recent name="C:\Users\Afrozack\IdeaProjects\LifeInLife\app" />
+      <recent name="C:\Users\Afrozack\IdeaProjects\LifeInLife\app\Controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Afrozack\IdeaProjects\LifeInLife\core" />
+      <recent name="C:\Users\Afrozack\IdeaProjects\LifeInLife\assets\logic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Unnamed">
+    <configuration name="Unnamed" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c4a5fc0-9a68-4787-8348-ccfd48e22c2d" name="Default" comment="" />
+      <created>1517400974661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517400974661</updated>
+      <workItem from="1517400976233" duration="7903000" />
+      <workItem from="1517424029000" duration="56325000" />
+      <workItem from="1517811713950" duration="98799000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="163027000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14553472" sideWeight="0.5021299" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1014333" sideWeight="0.4978701" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25248072" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10383387" sideWeight="0.25221238" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10383387" sideWeight="0.7477876" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07827476" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Server.js" />
+        <option value="$PROJECT_DIR$/Locals.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/app/Routes.js" />
+        <option value="$PROJECT_DIR$/core/User.js" />
+        <option value="$PROJECT_DIR$/core/DataAccess.js" />
+        <option value="$PROJECT_DIR$/core/Door.js" />
+        <option value="$PROJECT_DIR$/assets/logic/Main.js" />
+        <option value="$PROJECT_DIR$/core/View.js" />
+        <option value="$PROJECT_DIR$/core/Config.js" />
+        <option value="$PROJECT_DIR$/app/Controllers/ImagerController.js" />
+        <option value="$PROJECT_DIR$/core/Model.js" />
+        <option value="$PROJECT_DIR$/app/Controllers/GameController.js" />
+        <option value="$PROJECT_DIR$/assets/logic/PlayerController.js" />
+        <option value="$PROJECT_DIR$/core/LandingView.js" />
+        <option value="$PROJECT_DIR$/core/Loading.js" />
+        <option value="$PROJECT_DIR$/assets/logic/LoadingController.js" />
+        <option value="$PROJECT_DIR$/core/Debug.js" />
+        <option value="$PROJECT_DIR$/assets/logic/Assets.js" />
+        <option value="$PROJECT_DIR$/assets/logic/LandingViewController.js" />
+        <option value="$PROJECT_DIR$/core/Player.js" />
+        <option value="$PROJECT_DIR$/app/Models/AvatarModel.js" />
+        <option value="$PROJECT_DIR$/core/Room.js" />
+        <option value="$PROJECT_DIR$/app/Models/RoomModel.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/directives/DraggableDirective.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/directives/DraggableDirective.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/build/assets/furniture/plant_pineapple/plant_pineapple.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/build/assets/furniture/plant_pineapple/plant_pineapple.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/floor/Square.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/floor/SquareMap.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/floor/SquareState.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/floor/Square.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/floor/SquareState.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/floor/SquareMap.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/Animator.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/Animator.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/Frame.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/RoomEntity.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/MovementAnimation.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/MovementAnimation.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/Frame.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/RoomEntity.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/avatars/Avatar.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/avatars/AvatarAnimations.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/avatars/Avatar.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/entities/avatars/AvatarAnimations.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/RoomRenderer.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/Camera.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/Camera.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/Room.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/RenderStack.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/RenderStack.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/Room.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/room/RoomRenderer.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/UserInterface.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/UserInterface.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/room/RoomComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/room/RoomComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/memenu/MeMenuComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/memenu/ChatComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/memenu/ChatComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/memenu/MainMenuComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/memenu/MeMenuComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/memenu/MainMenuComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/hotelview/HotelviewComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/hotelview/HotelviewComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabFavouriteComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabSearchComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabGuestComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabOwnComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabPublicComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabOwnComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabGuestComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/NavigatorComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabSearchComponent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabFavouriteComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/TabPublicComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/userinterface/components/navigator/NavigatorComponent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/StopWalking.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/AuthenticatedEvent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/RemoveAvatar.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/RoomListEvent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/StopWalking.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/AddAvatarToRoom.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/EnterRoomEvent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/AddAvatarToRoom.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/MoveAvatarEvent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/BaseEvent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/BaseEvent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/RoomListEvent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/EnterRoomEvent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/AuthenticatedEvent.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/MoveAvatarEvent.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/events/RemoveAvatar.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/Networker.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/MessageParser.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/MessageParser.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/Networker.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/EnterRoomComposer.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/MoveAvatarComposer.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/EnterRoomComposer.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/MoveAvatarComposer.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/SingleSignOnComposer.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/RoomListComposer.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/RoomListComposer.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/BaseComposer.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/SingleSignOnComposer.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/networking/composers/BaseComposer.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/GetRequest.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/EventListener.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/Point.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/Logger.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/Rotation.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/Rotation.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/EventListener.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/Point.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/GetRequest.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/util/Logger.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/assets/FilesToPreload.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/assets/AssetHandler.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/assets/FilesToPreload.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/assets/AssetHandler.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/Habbo.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/Config.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/Habbo.js" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/Config.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/app.js.map" />
+        <option value="$USER_HOME$/Desktop/habbo5/Client/src/app.js" />
+        <option value="$PROJECT_DIR$/assets/UI/Navigationbar.js" />
+        <option value="$PROJECT_DIR$/core/UI.js" />
+        <option value="$PROJECT_DIR$/assets/UI/Navigator.js" />
+        <option value="$PROJECT_DIR$/core/Camera.js" />
+        <option value="$PROJECT_DIR$/assets/logic/RoomController.js" />
+        <option value="$PROJECT_DIR$/assets/logic/requestAnimFrame.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/components/_site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/PlayerMove.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/client/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/CST.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/UserModel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/CST.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Players.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/has-binary2/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="55" column="58" lean-forward="false" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/AvatarModel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/RoomModel.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/LoadingController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Model.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Door.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="84" column="72" lean-forward="false" selection-start-line="84" selection-start-column="72" selection-end-line="84" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controllers/GameController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/components/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-388">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/components/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/kommunity.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/client/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/client/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="90" column="20" lean-forward="false" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/client/_navigationbar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="47" column="48" lean-forward="false" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Loading.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="72" lean-forward="false" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/game/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fs.realpath/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fs-exists-sync/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/Main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/UI.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/client.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/styles/scss/client/_navigator.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/requestAnimFrame.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/RequestAnimFrame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Debug.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Camera.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/LandingView.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/game/client.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/UI/Navigator.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/UI/Navigationbar.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="119" column="66" lean-forward="false" selection-start-line="119" selection-start-column="66" selection-end-line="119" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/LandingViewController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/f7fbd5d6/7c293e2d-43b9-4295-ad9b-318839a2c2dc/lifeinlife.user_avatar">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Game.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="69" column="54" lean-forward="false" selection-start-line="69" selection-start-column="54" selection-end-line="69" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Room.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Room.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2665">
+          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/assets_path.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="162" column="17" lean-forward="false" selection-start-line="162" selection-start-column="17" selection-end-line="162" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/f7fbd5d6/7c293e2d-43b9-4295-ad9b-318839a2c2dc/lifeinlife.rooms">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/Assets.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/GameController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="73" column="47" lean-forward="false" selection-start-line="73" selection-start-column="47" selection-end-line="73" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Player.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/PlayerController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logic/RoomController.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="56" column="24" lean-forward="false" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
