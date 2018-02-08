@@ -60,12 +60,12 @@ export class Rooms {
 
             this.leaveRoom(players[socket.id].currentRoom, socket, players, rooms)
 
-        }
+            // On change la current room du joueur
+            players[socket.id].currentRoom = id
+            // On ajoute le joueur dans la liste des joueurs présents dans la room
+            rooms[id].playersIn.push(players[socket.id])
 
-        // On change la current room du joueur
-        players[socket.id].currentRoom = id
-        // On ajoute le joueur dans la liste des joueurs présents dans la room
-        rooms[id].playersIn.push(players[socket.id])
+        }
 
         /**
          * On log les informations de la room au client
@@ -165,9 +165,17 @@ export class Rooms {
                         max_users: room.max_users,
                         background_color: room.background_color,
                         image: room.image,
+                        background: {
+                            width: room.background_width,
+                            height: room.background_height,
+                        },
                         landing: false,
                         isPublic: room.isPublic,
-                        playersIn: []
+                        playersIn: [],
+                        door: {
+                            x: room.door_x,
+                            y: room.door_y
+                        }
                     }
 
                 }
@@ -211,15 +219,19 @@ export class Rooms {
 
         // Si la current room du player n'est pas la landing view
         // Sinon pas besoin de quitter tel room
-        if(players[socket.id].currentRoom !== socket.id) {
+        if(players[socket.id] !== undefined) {
 
-            // On lui fait quitter la room dans laquelle il est
-            this.leaveRoom(players[socket.id].currentRoom, socket, players, rooms)
+            if(players[socket.id].currentRoom !== socket.id) {
 
-            // On change la current room du joueur
-            players[socket.id].currentRoom = socket.id
-            // On ajoute le joueur dans sa landing view
-            Game.rooms[socket.id].playersIn = [ players[socket.id] ]
+                // On lui fait quitter la room dans laquelle il est
+                this.leaveRoom(players[socket.id].currentRoom, socket, players, rooms)
+
+                // On change la current room du joueur
+                players[socket.id].currentRoom = socket.id
+                // On ajoute le joueur dans sa landing view
+                Game.rooms[socket.id].playersIn = [ players[socket.id] ]
+
+            }
 
         }
 

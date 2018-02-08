@@ -3,6 +3,7 @@
 ///<reference path="LandingViewController.ts"/>
 ///<reference path="LoadingController.ts"/>
 ///<reference path="RoomController.ts"/>
+///<reference path="TrackingController.ts"/>
 var GameControllerClass = /** @class */ (function () {
     function GameControllerClass() {
         this.currentRoom = {};
@@ -41,12 +42,17 @@ var GameControllerClass = /** @class */ (function () {
              */
             RoomController.init(data);
             /** RoomUI.init(data) **/
+            /**
+             * On initialise les trackings
+             */
+            TrackingController.init(data);
         });
         /**
          * Un utilisateur veut quitter une room
          */
         Main.socket.on('leaving room', function (data) {
             RoomController.unset(data);
+            TrackingController.unset();
         });
     };
     GameControllerClass.prototype.listenToServerUpdate = function () {

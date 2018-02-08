@@ -35,20 +35,70 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+var Game_1 = require("./Game");
 var Camera = /** @class */ (function () {
     function Camera() {
         this.defaultX = 0;
         this.defaultY = 0;
     }
-    Camera.prototype.setCamera = function (id) {
+    Camera.prototype.initialize = function (io) {
+        io.sockets.on('connection', function (socket) {
+            socket.on('camera update', function (data) {
+                if (Game_1.default.cameras[data.socketid] !== undefined) {
+                    Game_1.default.cameras[data.socketid].offsetX = data.offsetX;
+                    Game_1.default.cameras[data.socketid].offsetY = data.offsetY;
+                }
+            });
+            socket.on('stop camera update', function (data) {
+                if (Game_1.default.cameras[data.socketid] !== undefined) {
+                    Game_1.default.cameras[data.socketid].offsetX = 0;
+                    Game_1.default.cameras[data.socketid].offsetY = 0;
+                }
+            });
+            /**
+             * Update la position actuelle d'une room
+             */
+            socket.on('room camera update', function (data) {
+                if (Game_1.default.cameras[data.player.socketid] !== undefined) {
+                    if (data.startX !== data.x || data.startY !== data.y) {
+                        Game_1.default.cameras[data.player.socketid].currentRoomX = data.x;
+                        Game_1.default.cameras[data.player.socketid].currentRoomY = data.y;
+                    }
+                    else {
+                        Game_1.default.cameras[data.player.socketid].currentRoomX = null;
+                        Game_1.default.cameras[data.player.socketid].currentRoomY = null;
+                    }
+                }
+            });
+            socket.on('players camera update', function (data) {
+                if (Game_1.default.cameras[data.player.socketid]) {
+                    if (data.startX !== data.x || data.startY !== data.y) {
+                        Game_1.default.cameras[data.player.socketid].currentPlayersX = data.x;
+                        Game_1.default.cameras[data.player.socketid].currentPlayersY = data.y;
+                    }
+                    else {
+                        Game_1.default.cameras[data.player.socketid].currentPlayersX = null;
+                        Game_1.default.cameras[data.player.socketid].currentPlayersY = null;
+                    }
+                }
+            });
+        });
+    };
+    Camera.prototype.setCamera = function (socketid) {
         var _this = this;
         return new Promise(function (resolve, reject) { return __awaiter(_this, void 0, void 0, function () {
             var data;
             return __generator(this, function (_a) {
                 data = {
-                    player: id,
-                    x: this.defaultX,
-                    y: this.defaultY,
+                    socketid: socketid,
+                    offsetX: this.defaultX,
+                    offsetY: this.defaultY,
+                    currentRoomX: null,
+                    currentRoomY: null,
+                    currentPlayersX: null,
+                    currentPlayersY: null,
+                    currentFurnituresRoomX: null,
+                    currentFurnituresRoomY: null
                 };
                 resolve(data);
                 return [2 /*return*/];

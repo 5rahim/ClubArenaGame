@@ -1,3 +1,4 @@
+///<reference path="PlayerController.ts"/>
 class RoomControllerClass {
 
     public roomAnimation: any
@@ -41,7 +42,7 @@ class RoomControllerClass {
         /**
          * Draw room
          */
-        this.drawRoom(room)
+        this.drawRoom(room, data)
 
         /**
          * Draw players
@@ -66,12 +67,57 @@ class RoomControllerClass {
     /**
      * On draw la room
      */
-    public drawRoom(room) {
+    public drawRoom(room, data) {
 
-        const x = 0
-        const y = 0
+        // On récupère la camera du joueur
+        const camera = GameController.cameras[data.socketid]
 
-        Main.ctx.drawImage(Assets.images[room.image], x, y)
+        // On fait une boucle pour obtenir tous les joueurs
+        for(var i = 0; i < room.playersIn.length; i++) {
+
+            const player = room.playersIn[i]
+
+            // Pour le joueur actuel
+            if(player.socketid == data.socketid) {
+
+                let roomStartX = (Main.canvas.width / 2) - (room.background.width / 2)
+                let roomStartY = (Main.canvas.height / 2) - (room.background.height / 2)
+                let roomX
+                let roomY
+
+                /**
+                 * On gère les positionnements
+                 */
+                // Si la camera du joueur n'a pas enregistré de mouvement de la room
+                if(camera.currentRoomX == null || camera.currentRoomY == null) {
+
+                    roomX = roomStartX + camera.offsetX
+                    roomY = roomStartY + camera.offsetY
+
+                    // On envoie les variables
+                    Main.socket.emit('room camera update', { startX: roomStartX, startY: roomStartY, x: roomX, y: roomY, camera: camera, player: player, room: room })
+
+                } else {
+
+                    roomX = camera.currentRoomX + camera.offsetX / 8
+                    roomY = camera.currentRoomY + camera.offsetY / 8
+
+                    Main.socket.emit('room camera update', { startX: roomStartX, startY: roomStartY, x: roomX, y: roomY, camera: camera, player: player, room: room })
+
+                }
+
+                /**
+                 * On déssinne les éléments en fonction de leur position
+                 */
+
+                // Room background
+                Main.ctx.drawImage(Assets.images[room.image], roomX, roomY)
+
+                PlayerController.draw(0, player, room.playersIn, camera, room)
+
+            }
+
+        }
 
     }
 

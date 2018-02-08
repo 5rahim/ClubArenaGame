@@ -3,6 +3,7 @@
 ///<reference path="LandingViewController.ts"/>
 ///<reference path="LoadingController.ts"/>
 ///<reference path="RoomController.ts"/>
+///<reference path="TrackingController.ts"/>
 class GameControllerClass {
 
     players: any
@@ -68,6 +69,11 @@ class GameControllerClass {
             RoomController.init(data)
             /** RoomUI.init(data) **/
 
+            /**
+             * On initialise les trackings
+             */
+            TrackingController.init(data)
+
         })
 
         /**
@@ -76,6 +82,8 @@ class GameControllerClass {
         Main.socket.on('leaving room', (data) => {
 
             RoomController.unset(data)
+
+            TrackingController.unset()
 
         })
 

@@ -9,6 +9,7 @@ import LandingView from "./core/LandingView";
 import Game from "./core/Game";
 import UI from "./core/UI";
 import Room from "./core/Room";
+import Camera from "./core/Camera";
 
 debug('ts-express:server');
 
@@ -60,4 +61,5 @@ Loading.initialize(io)
 LandingView.initialize(io)
 Room.initialize(io)
 UI.initialize(io)
+Camera.initialize(io)
 

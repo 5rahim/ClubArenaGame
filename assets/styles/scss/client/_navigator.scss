@@ -2,6 +2,7 @@ $width: 500px;
 
 .navigator {
 	user-select: none;
+	z-index: 100;
 	width: $width;
 	position: absolute;
 	top: 20%;

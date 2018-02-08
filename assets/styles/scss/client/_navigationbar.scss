@@ -6,7 +6,8 @@ $nHeight: 55px;
 	background-color: #25211c;
 	border-bottom: 3px #34312b solid;
 	box-shadow: inset 0px -5px 0px 0px rgba($black,.1);
-	position: relative;
+	position: absolute;
+	z-index: 50;
 	.navigation-bar-logo {
 		width: 116px;
 		height: 76px;

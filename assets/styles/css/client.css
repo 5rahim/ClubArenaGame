@@ -774,7 +774,8 @@ li {
   background-color: #25211c;
   border-bottom: 3px #34312b solid;
   box-shadow: inset 0px -5px 0px 0px rgba(0, 0, 0, 0.1);
-  position: relative; }
+  position: absolute;
+  z-index: 50; }
   .navigation-bar .navigation-bar-logo {
     width: 116px;
     height: 76px;
@@ -813,6 +814,7 @@ li {
 
 .navigator {
   user-select: none;
+  z-index: 100;
   width: 500px;
   position: absolute;
   top: 20%;
@@ -861,5 +863,11 @@ li {
     position: absolute;
     right: .3em;
     top: .3em; }
+
+.camera-tracking {
+  position: fixed;
+  z-index: 20;
+  top: 0;
+  left: 0; }
 
 /*# sourceMappingURL=client.css.map */

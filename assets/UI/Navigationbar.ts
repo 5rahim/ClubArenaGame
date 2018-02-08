@@ -13,7 +13,7 @@ class NavigationbarUIClass {
 
     private template() {
 
-        return '<div class="navigation-bar">' +
+        return '<div class="navigation-bar" style="width:'+ Main.canvas.width +'px">' +
             '   <div class="navigation-bar-logo"></div>' +
             '   <div class="navigation-bar-icons">' +
             '       <li><div class="navigation-bar-icon" id="navigatorIcon"></div></li>' +

@@ -27,7 +27,7 @@ export class Game {
         /**
          * On initilialise les rooms dans la variable globale
          */
-       Room.setRooms(this.rooms)
+        Room.setRooms(this.rooms)
 
         io.sockets.on('connection', (socket: any): any => {
 

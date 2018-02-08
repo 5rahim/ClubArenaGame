@@ -75,8 +75,10 @@ var Player = /** @class */ (function () {
                                 feet: avatar.feet
                             },
                             position: {
-                                x: this.default_x,
-                                y: this.default_y
+                                x: 0,
+                                y: 0,
+                                direction: 'front',
+                                flip: 'left'
                             }
                         };
                         resolve(data);
