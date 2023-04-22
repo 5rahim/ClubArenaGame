@@ -1,0 +1,191 @@
+[
+
+
+  {
+    "name": "clubview_background",
+    "dir": null,
+    "base_dir": null
+  },
+
+
+
+
+
+  {
+    "name": "park_background",
+    "dir": null,
+    "base_dir": "rooms"
+  },
+
+
+
+
+
+
+
+  {
+    "name": "empty",
+    "dir": null,
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "1_shadow",
+    "dir": "shadow",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "head_1_white_front_l",
+    "dir": "head",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "head_1_white_front_r",
+    "dir": "head",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "head_1_white_back_l",
+    "dir": "head",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "head_1_white_back_r",
+    "dir": "head",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "hair_1_front_l",
+    "dir": "hair",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "hair_1_back_l",
+    "dir": "hair",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "hair_1_front_r",
+    "dir": "hair",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "hair_1_back_r",
+    "dir": "hair",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "hair_2_front_l",
+    "dir": "hair",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "hair_2_back_l",
+    "dir": "hair",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "hair_2_front_r",
+    "dir": "hair",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "hair_2_back_r",
+    "dir": "hair",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "body_1_white_front_l",
+    "dir": "body",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "body_1_white_front_r",
+    "dir": "body",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "body_1_white_back_l",
+    "dir": "body",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "body_1_white_back_r",
+    "dir": "body",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "foot_1_white_front_left_side",
+    "dir": "feet",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "foot_1_white_back_left_side",
+    "dir": "feet",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "foot_1_white_front_right_side",
+    "dir": "feet",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "foot_1_white_back_right_side",
+    "dir": "feet",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "arm_first_side_1_white_l",
+    "dir": "arms",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "arm_first_side_1_white_r",
+    "dir": "arms",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "arm_second_side_1_white_l",
+    "dir": "arms",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "arm_second_side_1_white_r",
+    "dir": "arms",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "cloth_1_front_r",
+    "dir": "clothes",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "cloth_1_front_l",
+    "dir": "clothes",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "cloth_1_back_r",
+    "dir": "clothes",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "cloth_1_back_l",
+    "dir": "clothes",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "eyes_1_l",
+    "dir": "eyes",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "eyes_1_r",
+    "dir": "eyes",
+    "base_dir": "avatar-imaging"
+  },
+  {
+    "name": "park_background",
+    "dir": null,
+    "base_dir": "rooms"
+  }
+]

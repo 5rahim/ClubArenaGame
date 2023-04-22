@@ -1,4 +1,4 @@
-import { Model } from '../../core/Model';
+import { Model } from '../../core/Database/Model';
 
 export class RoomModel extends Model {
 

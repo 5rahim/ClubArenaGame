@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var express_1 = require("express");
-var Door_1 = require("../../core/Door");
+var Door_1 = require("../../core/Site/Door");
 var GameController = /** @class */ (function () {
     function GameController() {
         this.router = express_1.Router();

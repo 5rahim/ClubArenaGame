@@ -8,18 +8,18 @@ import * as helmet from 'helmet';
 import * as cors from 'cors';
 import * as path from 'path';
 import * as expressValidator from 'express-validator';
-import * as sassMiddleware from 'node-sass-middleware';
+// import * as sassMiddleware from 'node-sass-middleware';
 import * as i18n from 'i18n';
 import * as session from 'express-session';
 import * as flash from 'connect-flash';
 
 // Core/App
-import Config from "./core/Config";
-import DB from "./core/DataAccess";
-import View from "./core/View";
+import Config from "./core/Configuration/Config";
+import DB from "./core/Database/DataAccess";
+import View from "./core/Site/View";
 import Routes from "./app/Routes";
 //import I18n from './core/i18n';
-import Door from './core/Door';
+import Door from './core/Site/Door';
 import server = require("socket.io");
 import Locals from "./Locals";
 
@@ -52,13 +52,13 @@ class Server {
         this.app.use(cookieParser());
         this.app.use(csrf({ cookie: true }));
         this.app.use(expressValidator());
-        this.app.use(sassMiddleware({
-            src: path.join(__dirname, 'assets'),
-            dest: path.join(__dirname, 'assets'),
-            indentedSyntax: false, // true = .sass and false = .scss
-            sourceMap: true
-        }));
-        this.app.use(express.static(path.join(__dirname, 'assets')));
+        // this.app.use(sassMiddleware({
+        //     src: path.join(__dirname, 'public'),
+        //     dest: path.join(__dirname, 'public'),
+        //     indentedSyntax: false, // true = .sass and false = .scss
+        //     sourceMap: true
+        // }));
+        this.app.use(express.static(path.join(__dirname, 'public')));
         this.app.use(express.static(path.join(__dirname, 'node_modules')));
         this.app.use(logger('dev'));
         this.app.use(compression());

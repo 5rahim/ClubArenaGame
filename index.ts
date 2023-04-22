@@ -2,14 +2,7 @@ import * as http from 'http';
 import * as debug from 'debug';
 
 import Server from './Server';
-import Socket from './core/Socketio';
-import Players from "./core/Players";
-import Loading from "./core/Loading";
-import LandingView from "./core/LandingView";
-import Game from "./core/Game";
-import UI from "./core/UI";
-import Room from "./core/Room";
-import Camera from "./core/Camera";
+import GameEnvironment from "./core/ClubArena/GameEnvironment";
 
 debug('ts-express:server');
 
@@ -55,11 +48,5 @@ function onListening(): void {
 
 const io = require('socket.io').listen(server);
 
-Socket.initialize(io)
-Game.initialize(io)
-Loading.initialize(io)
-LandingView.initialize(io)
-Room.initialize(io)
-UI.initialize(io)
-Camera.initialize(io)
+GameEnvironment.initialize(io)
 

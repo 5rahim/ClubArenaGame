@@ -5,7 +5,8 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/styles/css/client.css">
-    <title>Life in Life</title>
+    <link rel="stylesheet" href="/animate.css/animate.min.css">
+    <title>Club Arena</title>
 </head>
 <body>
 
@@ -15,55 +16,71 @@
     <div class="ui">
 
         <div class="navigation-bar-fill"></div>
+        <div class="clubview-fill"></div>
 
     </div>
 
-    <div class="tracking">
+    <div class="tracking"></div>
 
+    <div class="room-content" style="display: none">
     </div>
-    <canvas id="game"></canvas>
+
+    <div class="clubview-content">
+    </div>
+
+    <div class="alertmaintenance"></div>
+
+    <div class="splashscreen"></div>
 
 
     <% } %>
 </div>
 
+<% if(isAuth) { %>
 <script src="/socket.io/socket.io.js"></script>
 <script src="/logic/jquery.min.js"></script>
+<script src="/logic/jquery-ui.min.js"></script>
+<script src="/logic/jquery-animatecss.js"></script>
 <script>
-    var io;
-    const url = 'http://127.0.0.1:4004';
-    const socket = io.connect(url);
-    const token = '<%= token %>';
+    var url = 'http://127.0.0.1:4004';
+    var socket = io.connect(url);
+    var token = '<%= token %>';
 </script>
-<% if(isAuth) { %>
 
-<script src="/logic/CST.js"></script>
+<script src="/Client/CST.js"></script>
 
-<script src="/logic/requestAnimFrame.js"></script>
+<script src="/Client/Game/Assets.js"></script>
 
-<script src="/logic/Main.js"></script>
-
-<script src="/logic/Assets.js"></script>
-
-<script src="/logic/RoomController.js"></script>
-
-<script src="/UI/Navigator.js"></script>
-<script src="/UI/Navigationbar.js"></script>
-
-<script src="/logic/PlayerController.js"></script>
+<script src="/Client/Main.js"></script>
 
 <script>
-    PlayerController.initUser(token)
     Main.initSocket(socket)
+    Main.initToken(token)
 </script>
 
-<script src="/logic/LoadingController.js"></script>
+<script src="/Client/Canvas/Canvas.js"></script>
 
-<script src="/logic/LandingViewController.js"></script>
+<script src="/Client/Splash/SplashScreenController.js"></script>
 
-<script src="/logic/TrackingController.js"></script>
+<script src="/Client/Player/PlayerController.js"></script>
 
-<script src="/logic/GameController.js"></script>
+<script src="/Client/Entities/EntitiesController.js"></script>
+
+<script src="/Client/Splash/LoadingController.js"></script>
+
+<script src="/Client/ClubView/ClubViewController.js"></script>
+
+<script src="/Client/Room/RoomController.js"></script>
+
+<script src="/Client/UI/UI_Navbar.js"></script>
+<script src="/Client/UI/UI_Navigator.js"></script>
+<script src="/Client/UI/UI_AlertMaintenance.js"></script>
+<script src="/Client/UI/UIController.js"></script>
+
+<script src="/Client/Game/EventsController.js"></script>
+
+<script src="/Client/Game/GameController.js"></script>
+
 
 <% } %>
 

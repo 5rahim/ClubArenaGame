@@ -1,5 +1,5 @@
 import {Router, Request, Response, NextFunction} from 'express';
-import Door from "../../core/Door";
+import Door from "../../core/Site/Door";
 
 export class GameController {
 

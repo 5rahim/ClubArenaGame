@@ -35,7 +35,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var Door_1 = require("./core/Door");
+var Door_1 = require("./core/Site/Door");
 var Locals = /** @class */ (function () {
     function Locals() {
     }

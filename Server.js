@@ -10,13 +10,12 @@ var helmet = require("helmet");
 var cors = require("cors");
 var path = require("path");
 var expressValidator = require("express-validator");
-var sassMiddleware = require("node-sass-middleware");
 var session = require("express-session");
 var flash = require("connect-flash");
 // Core/App
-var Config_1 = require("./core/Config");
-var DataAccess_1 = require("./core/DataAccess");
-var View_1 = require("./core/View");
+var Config_1 = require("./core/Configuration/Config");
+var DataAccess_1 = require("./core/Database/DataAccess");
+var View_1 = require("./core/Site/View");
 var Routes_1 = require("./app/Routes");
 // Process ENV
 process.env.BASE = __dirname + '/';
@@ -38,13 +37,13 @@ var Server = /** @class */ (function () {
         this.app.use(cookieParser());
         this.app.use(csrf({ cookie: true }));
         this.app.use(expressValidator());
-        this.app.use(sassMiddleware({
-            src: path.join(__dirname, 'assets'),
-            dest: path.join(__dirname, 'assets'),
-            indentedSyntax: false,
-            sourceMap: true
-        }));
-        this.app.use(express.static(path.join(__dirname, 'assets')));
+        // this.app.use(sassMiddleware({
+        //     src: path.join(__dirname, 'public'),
+        //     dest: path.join(__dirname, 'public'),
+        //     indentedSyntax: false, // true = .sass and false = .scss
+        //     sourceMap: true
+        // }));
+        this.app.use(express.static(path.join(__dirname, 'public')));
         this.app.use(express.static(path.join(__dirname, 'node_modules')));
         this.app.use(logger('dev'));
         this.app.use(compression());
